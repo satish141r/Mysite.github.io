@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:cursive;
+  
+    
+}
+.voilet{
+    background-color: #E8F9FD;
+    padding-top: 100px;
+}
+.des{
+    text-decoration: underline;
+    color:red;
+  
+}
+.voilet h1{
+    text-decoration: underline;
+    /* font-style: fantasy; */
+    font-size: 50px;
+
+    margin: auto;
+}
+.voilet img{
+    position: relative;
+   /* left: 100px;  */
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+}
+.bottom1-cloud{
+    position: absolute;
+    bottom: 200px;
+    left: 800px;
+}
+.top-cloud{
+    position: absolute;
+    left: 300px;
+    top: 30px;
+}
+.image{
+   height: 350px;
+   border-radius: 100%;
+}
+
+.middle-container{
+    background-color: #E8F9FD;
+}
+.bottom-container{
+    background-color: #E8F9FD;
+   
+
+}
+.mountain-image{
+     position: absolute;
+     right: 150px;
+}
+.btn{
+    font-style: italic;
+}
+.contact-png{
+    height: 60px;
+}
+
+.java-image {
+       height: 300px;
+}
+.web-image{
+    height: 300px;
+}
+hr{
+  
+    border: none;
+    border-top: 10px dotted;
+    border-color:rgb(236, 228, 228);
+    width: 20%;
+}
